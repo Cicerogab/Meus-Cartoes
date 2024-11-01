@@ -5,6 +5,72 @@ criaCartao(
 )
 
 criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Cícero?',
+    'Cícero é um nome com origem no latim Cicero. Na realidade ele era considerado um cognome romano (um apelido, uma alcunha), da palavra cicer.'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Jorge?',
+    'Jorge: Significa "o que trabalha com a terra" ou "agricultor". Curto e imponente, o belo nome masculino Jorge tem origem grega e está presente há séculos na história da nossa humanidade'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Maurílio?',
+    'Maurílio: Significa “de Mauro”, “pertencente a Mauro”, “da natureza de Mauro”. Maurílio é uma forma relativa de Mauro, nome originado no latim Mauru, que quer dizer literalmente “mouro”.'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Jessé?',
+    'Jessé: Significa “rei”, "presente de Deus", "Deus existe"'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Jonas?',
+    'Jonas: Significa "pombo", “ser pacífico”, “presente de Deus”'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Valmir?',
+    'Valmir: Valmir significa "famoso amado", "escolhido por ser brilhante". O nome Valmir vem do germânico Walamir, que junta duas palavras: - Wala, que quer dizer "amado", "escolhido"; - e mir, que significa "famoso, brilhante, célebre""'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Jhonatas?',
+    'Jhonatas: Variação do nome Jônatas. Significa "dado por Deus", "dádiva divina", “amigo inabalável”."'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Evandro?',
+    'Evandro: Significa "homem bom" ou "homem cheio de virilidade, valente". Evandro é um nome de origem grega, de Eúandros. Esse nome junta as palavras eu, que significa "bem" ou "bom" e andrós, que quer dizer "homem"."'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Sandra?',
+    'Sandra: Significa "protetora da humanidade", "defensora do homem", “a que brilha sobre os homens” O belo nome feminino Sandra tem origem italiana e surgiu como uma variante diminutiva dos nomes Alessandra e Cassandra'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Emília?',
+    'Emília: Significa “rival”, “a que fala de modo agradável”, “zelosa”, “solícita”.'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
+    ' O que significa o nome Renata?',
+    'Renata: Significa "renascida", "ressuscitada" ou "nascida pela segunda vez".'
+)
+
+criaCartao(
     'Programação',
     'O que é Python?',
     'O Python é uma linguagem de programação'
