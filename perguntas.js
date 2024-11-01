@@ -1,4 +1,10 @@
 criaCartao(
+    'História',
+    'O que significa halloween?',
+    ' Halloween (ou Dia das Bruxas)A celebração vem de um antigo festival pagão celebrado pelos celtas há mais de 2.000 anos nas regiões do Reino Unido, Irlanda e noroeste da França, chamado Samhain.'
+)
+
+criaCartao(
     'Programação',
     'O que é Python?',
     'O Python é uma linguagem de programação'
