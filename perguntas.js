@@ -194,6 +194,12 @@ criaCartao(
 
 criaCartao(
     'Língua Portuguesa (nome)',
+    ' O que significa o nome Maristela?',
+    'Maristela: Significa “estrela do mar” ou “senhora soberana estrelar”. O nome Maristela tem dois possíveis étimos. O primeiro originário da inversão do latim stella maris, que significa literalmente “estrela do mar”.'
+)
+
+criaCartao(
+    'Língua Portuguesa (nome)',
     ' O que significa o nome Diogo?',
     'Diogo: Significa “aquele que vem do calcanhar”, “aquele que doutrina, aquele que ensina”. Tem origem no nome espanhol Diego, que tem o mesmo sentido de Jacó (Iago) ou, até mesmo, de Tiago. Significa “aquele que vem do calcanhar”.'
 )
